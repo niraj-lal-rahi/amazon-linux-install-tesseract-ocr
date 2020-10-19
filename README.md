@@ -46,7 +46,7 @@ sudo wget https://mirrors.xtom.com/osdn//sfnet/t/te/tesseract-ocr-alt/tesseract-
 
 sudo tar xvf tesseract-ocr-3.02.eng.tar.gz
 
-sudo wget hhttp://tesseract-ocr.googlecode.com/files/tesseract-ocr-3.01.osd.tar.gz
+sudo wget https://mirrors.bfsu.edu.cn/osdn//sfnet/t/te/tesseract-ocr-alt/tesseract-ocr-3.01.osd.tar.gz
 
 sudo tar xvf tesseract-ocr-3.01.osd.tar.gz
 
