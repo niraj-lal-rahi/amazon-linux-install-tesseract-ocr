@@ -42,7 +42,7 @@ sudo ldconfig
 
 cd /usr/local/share/tessdata
 
-sudo wget http://tesseract-ocr.googlecode.com/files/tesseract-ocr-3.02.eng.tar.gz
+sudo wget https://mirrors.xtom.com/osdn//sfnet/t/te/tesseract-ocr-alt/tesseract-ocr-3.02.eng.tar.gz
 
 sudo tar xvf tesseract-ocr-3.02.eng.tar.gz
 
